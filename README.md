@@ -5,7 +5,7 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 <body>
 <h1> All About Me</h1>
-<img src="https://dhis.dhs.sg/data/photos/861507B0-5E0C-43A4-90F6-2D0DB9AA0055.jpg" height="300" width="100"/>
+<img src="https://dhis.dhs.sg/data/photos/861507B0-5E0C-43A4-90F6-2D0DB9AA0055.jpg" height="300" width="200"/>
 <p>
 My name is Chloe Teh. I am a student of Dunman High School. Currently in 1st year high school. </p>
 <p>
