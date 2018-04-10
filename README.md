@@ -5,7 +5,6 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 <body>
 <h1> All About Me</h1>
-<title> This is my website </title>
 <img src="photo.jpg"/>
 <p>
 My name is Chloe Teh. I am a student of Dunman High School. Currently in 1st year high school. </p>
